@@ -1,4 +1,4 @@
-# SimpleJavaGameOutline
+# Simple Java Game Engine
 
 --IDE--
 IntelliJ
