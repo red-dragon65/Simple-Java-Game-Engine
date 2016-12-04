@@ -1,11 +1,10 @@
 # Simple Java Game Engine
 
-### IDE
-* IntelliJ
-
 ### About
 This game is to show case how windows, panels, loops, and keyboard input can move a character on screen.
 Use the arrow keys to move the character.
+
+**IDE** - IntelliJ
 
 
 # Steps to get it working
